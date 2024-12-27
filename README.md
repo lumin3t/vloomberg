@@ -1,8 +1,10 @@
 # 🚀 vloomberg
 
-https://www.youtube.com/watch?v=DBaZGORhUcY&t=89s&ab_channel=BugsWriter
 
-tryin to replace the $2000/month Bloomberg subscription with FOSS and Internet uwu 
+[![Watch the video](https://img.youtube.com/vi/DBaZGORhUcY/0.jpg)](https://www.youtube.com/watch?v=DBaZGORhUcY&t=89s)
+
+
+tryin to replace the $2000/month Bloomberg subscription with FOSS and the Internet uwu 
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
